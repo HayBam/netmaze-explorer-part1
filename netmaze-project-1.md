@@ -209,7 +209,7 @@ HQVM NSG
 3. **Create NSG for Admin Subnet**:
    - Create `AdminNSG` to restrict access only to trusted IPs.
 
-In Part 2 we shall work on 
+In Part 2 I will work on 
 **Azure Bastion** for secure RDP/SSH access to VMs without exposing public IPs.
 **Azure Private Link** for private access to Azure PaaS resources.
 **Azure Load Balancer** to distribute traffic to WebApp VMs.
